@@ -4,12 +4,18 @@ html, body { width:100%; height:100%; margin:0; background-color:#FFFFFF; font-s
 #container #content a { color:#BC623A; text-decoration:none; }
 #container #content a:hover { color:#D52727; }
 #container #content h1 { display:block; margin:0px 0px 15px 0px; font-size:1.15rem; }
+#container #content h1 .far { width:16px; }
+#container #content h1 .fab { width:16px; }
 #container #content h1 > span { white-space:nowrap; }
 #container #content h1 > span > a { font-weight:normal; }
 #container #content h1 > span > span { color:#CFCFCF; }
+#container #content h3 .far { width:14px; }
+#container #content h3 .fab { width:14px; }
 #container #content h3 > span > span { white-space:nowrap; font-size:1rem; }
 #container #content h3 > span > span > a { font-weight:normal; }
 #container #content h3 > span > span > span { color:#CFCFCF; }
+#container #content legend .far { width:13px; }
+#container #content legend .fab { width:13px; }
 #container #content legend > i { display:block; margin:-2px 0px 8px 0px; height:12px; font-size:0.9rem; font-weight:normal; font-style:normal; color:#999999; }
 #container #content legend > span { white-space:nowrap; font-size:0.9rem; }
 #container #content legend > span > a { font-weight:normal; }
